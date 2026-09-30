@@ -19,4 +19,4 @@ In the following let $G = (V, E)$ be a simple graph.
 
 Aside from the imported Mathlib code, all code is written by the author.
 
-This code builds for the Mathlib (commit b3b63681020779dc7e14866c0b2afbd84e0722e4).
+This code builds for the Mathlib (commit `b3b63681020779dc7e14866c0b2afbd84e0722e4`).
