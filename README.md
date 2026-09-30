@@ -17,6 +17,6 @@ In the following let $G = (V, E)$ be a simple graph.
 * `three_connected.lean` : Contains the proof of Tutte's characterization; defines edge contractions on `SimpleGraph`.
 * `edmonds_gallai.lean` : Contains the proof of Theorem 2.2.3 from Diestel. Proves it for Edmonds-Gallai sets (i.e., maximal sets where $q(G[S^c]) - |S|$ is maximized).
 
-Aside from the imported Mathlib code, all code is written by the author.
+Aside from the imported Mathlib code, all code is written by me.
 
 This code builds for the Mathlib (commit `b3b63681020779dc7e14866c0b2afbd84e0722e4`).
